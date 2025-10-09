@@ -5,6 +5,8 @@ Overview
 This project is a marketing landing page for a fictional tech product or SaaS tool. The goal is to showcase the product effectively and encourage user engagement through a modern, responsive design.
 
 The landing page includes key sections such as Hero, Features, Testimonials, Pricing, and a Call-to-Action, providing a complete marketing experience.
+📸 screenshot
+<img width="500" height="628" alt="tech" src="https://github.com/user-attachments/assets/2722390a-3f02-496f-8f91-a0edfba30b53" />
 
 Features ✨
 
